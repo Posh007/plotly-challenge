@@ -38,13 +38,13 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](static/images/dem_info.png)
+![Demographic Info](static/images/dem_info.png)
 
 6. Update all of the plots any time that a new sample is selected.
 
 Created a dashboard as shown below:
 
-![hw](static/images/Dashboard_Screenshot _Lower.png)
+![Dashboard](static/images/Dashboard_Screenshot _Lower.png)
 
 ## Advanced Challenge Assignment (Optional)
 
