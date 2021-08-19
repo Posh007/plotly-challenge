@@ -45,7 +45,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Created a dashboard as shown below:
 C:\Users\Posh_2\Desktop\plotly-challenge\static\images\Dashboard_Screenshot_Lower.png
-![Dashboard Screenshot](static/images/Dashboard_Screenshot_top.png)
+![Dashboard Screenshot](static/images/Dashboard_Screenshot_top.jpg)
 
 ## Advanced Challenge Assignment (Optional)
 
