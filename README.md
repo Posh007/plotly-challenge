@@ -1,6 +1,6 @@
 # Plot.ly Homework - Belly Button Biodiversity
 
-![Microbes art](images/microbes collection.jpg)
+![Microbes art](static/images/microbe_collection.jpg)
 
 In this Homework, an interactive dashboard to explore the Belly Button Biodiversity dataset[Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/) is built, which catalogs the microbes that colonize human navels.
 
@@ -18,7 +18,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Used `otu_labels` as the hovertext for the chart.
 
-  ![bar Chart]("static/images/bar_plot.png)
+  ![bar Chart](static/images/bar_plot.png)
 
 3. Create a bubble chart that displays each sample.
 
@@ -32,7 +32,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Used `otu_labels` for the text values.
 
-![Bubble Chart](static/images/bubble_plo.png)
+![Bubble Chart](static/images/bubble_plot.png)
 
 4. Displaedy the sample metadata, i.e., an individual's demographic information.
 
@@ -56,7 +56,7 @@ The following task is advanced and therefore optional.
 
 * Updated the chart whenever a new sample is selected.
 
-![Weekly Washing Frequency Gauge](images/gauge.png)
+![Weekly Washing Frequency Gauge](static/images/gauge_plot.png)
 
 ## Deployment
 
