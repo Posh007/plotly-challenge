@@ -37,14 +37,15 @@ The dataset reveals that a small handful of microbial species (also called opera
 4. Displaedy the sample metadata, i.e., an individual's demographic information.
 
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
+(../static/images/dem_info.png")
 
-![dem_info](static/images/dem_info.png)
+![Demographic information](static/images/dem_info.jpg)
 
 6. Update all of the plots any time that a new sample is selected.
 
 Created a dashboard as shown below:
-
-![Dashboard_Screenshot.png](static/images/Dashboard_Screenshot_Lower.png)
+C:\Users\Posh_2\Desktop\plotly-challenge\static\images\Dashboard_Screenshot_Lower.png
+![Dashboard Screenshot](static/images/Dashboard_Screenshot_Lower.png)
 
 ## Advanced Challenge Assignment (Optional)
 
