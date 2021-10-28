@@ -40,10 +40,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 6. Updated all of the plots each time a new sample is selected.
 
-In addition, also created a dashboard as shown below:
-
-![Dashboard Screenshot](static/images/Dashboard_Screenshot_top.jpg)
-
 ## Advanced Challenge Assignment (Optional)
 
 Completed the bonus task.
