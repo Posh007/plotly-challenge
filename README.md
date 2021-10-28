@@ -60,7 +60,7 @@ Completed the bonus task.
 
 ## Deployment
 
-* Deployed the app to GitHub Pages and submitted the links
+* Deployed app can be viewd [here](https://posh007.github.io/plotly-challenge)!
 
 ## Tools Used
 Plot.ly
